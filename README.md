@@ -1,1 +1,2 @@
 # My-Resume
+## My Resume showcase my expertise as an experienced data analyst and business intelligence expert with two (2) years of experience. My expertise in data visualization, statistical analysis, and business acumen enables me to drive well informed decision-making and optimize strategies. My strong communication skills allow me to effectively convey complex findings to stakeholders, making me a valuable assets in transforming data into valuable business solution.
